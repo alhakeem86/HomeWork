@@ -1,29 +1,13 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# The Best Movies According To Zaid
+## My 3 Best Movies Of All-Time.
+1. The Shawshank Redemption.
+2. Cast Away.
+3. Schindler's List.
 
-## Overview
+- I have never seen such an amazing film since i saw **the shawshank Redemption** .shawshank encompasses friendships, hardships, hopes, and dreams. And what is so great about the movie is that it moves you, it gives you hope.
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+- A wonderfully silent drama with **Hanks and Wilson** spiritually sensational.It's all about love - about the difficulty of finding it in a world obsessed with success, about the freakish accidents that can produce or destroy it, about an ordeal that led one man to re-think what is meaningful in life, and about the need to bring to the pursuit of love the same resourcefulness and courage that enabled the hero to survive on an island for 5 years
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+- This movie,**Schindler's List**, is hands-down without a doubt one of the greatest films I have ever had the pleasure of viewing. Regardless of how much praise I include in my review, I should still think it deserves more. Few movies are actually able to pull tears out of my stubborn eyes, and the two that come right to mind are this one, and It's a Wonderful Life. Schindler's List is a grim portrayal of events in the Holocaust, while at the same time actually bringing light to some of the humanity still there. I was embarrassed when I actually started clapping in that classroom where I first watched this movie. I'd recommend it to anybody and it remains in my top selection of movies. Outstanding.
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
 
-## Get Started
-
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per the instructions in the curriculum.
-
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), clone the Savvy Starter Repo - essentially, there should be a button that says **Use this template.**
-
-> [Read more about using templates on GitHub here...](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual.
-
-Once it's `clone`d to your local machine, `cd` into the directory and **be sure to do:** `npm i` to get all of the dependencies installed. If you see any _errors_ (warnings are OK) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom `right` of your screen). You should install these.
-
-In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
-
-**Note:** This is a template repository, no need to 'fork it.
