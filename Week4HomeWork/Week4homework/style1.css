@@ -1,0 +1,57 @@
+#zr {
+  background-image:url(https://st.depositphotos.com/1268628/4512/i/600/depositphotos_45124431-stock-photo-grey-abstract-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#ya {
+  background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcm00NjdiYXRjaDUtc2NlbmUtdy0wMDItbDBha3pzejYuanBn.jpg?s=Q8ou_oc12RdR0CvRNnFlBeEhs-ezvTRuZV8tLeqT-iw);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1 {
+  color: blueviolet;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+color: rgb(92, 13, 166);
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: 20px;
+}
+h3 {
+  color: rgba(58, 21, 93, 0.953);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+}
+#hobbeis {
+  color: rgb(51, 5, 5);
+  font-size: 20px;
+  list-style: none;
+}
+.dore:not(:last-child){
+  margin-bottom: 15px;
+}
+.dore:before{
+  content: "\235F";
+}
+#list1 {
+  color: rgb(51, 5, 5);
+  font-size: 20px;
+  list-style: none;
+}
+li:not(:last-child){
+  margin-bottom: 15px;
+}
+li:before{
+  content: "\1F382";
+}
+a {
+  text-decoration: none}
+
